@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: abelkhadir.github.io
+Token: 69188fa3d1a5abc2202ab2ee1a58182e84f8ef3497daa1d142a8c6d972ced7a9
